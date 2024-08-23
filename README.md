@@ -32,4 +32,4 @@ Contributions are more than welcome! If you have any ideas, enhancements, or bug
 * The app uses the Unsplash API, which requires a free API key. You can get an API key from the Unsplash website.<br><br>
 
 ## Made By
-Crafted with ❤️ by Yugam
+Crafted with ❤️ by dhyey
